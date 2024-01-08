@@ -108,8 +108,5 @@ class TestFoodDonationSystem(unittest.TestCase):
 # - Viewing history and notifications
 # - Input validation and error handling
 
-
-
-
 if __name__ == '__main__':
     unittest.main()
